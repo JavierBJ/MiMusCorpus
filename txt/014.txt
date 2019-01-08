@@ -1,0 +1,19 @@
+a: VII.513
+b: 1396
+c: gener
+d: 23
+e: Perpinyà
+f: El rei Joan I comunica a Nicolau Morató que dels 4.000 florins que el tresorer li ha enviat per pagar falconers, ministrers i monters, 1.000 són per als falconers.{nota1}
+g: ACA
+h: Cancelleria
+j: reg.
+k: 1968
+l: 75v
+p:
+Lo rey.
+En Nicolau Morató, manam-vos que dels IIIIM florins que nostre tresorer ha trameses aquí per quitar nostres falconers, ministrers e monters, façats fer dita de taula a mossèn Ffrancesch Bertran, falconer major nostre, de M florins per si matex e per los altres de son offici, car los dit M florins pertanyen a ells, en los dit IIIIM florins, per lur quitació, e tots se’n tendran per contents, pus la dita diga al dit mossèn Ffrancesch, per què dats-hi recapte decontinent.
+Dada en Perpenyà sots nostre segell secret a XXIII de jener de l’any MCCCXCVI. Rex Iohannes.
+Dominus rex mandavit Petro de Beviure.
+q: {nota1} El 19 de novembre 1399 el rei Martí va escriure a Bartomeu de Bonany demanant-li raó d’aquests 4.000 florins: «Lo rey. Nós volem haver raó et compte d’aquells quatre mília florins d’or d’Aragó o d’aquella part d’ells que mossèn Ffrancesch Bertran ha reebuts de la ciutat de Mallorques per certa assignació d’aquells feta per lo senyor rey en Johan de bona memòria, nostre frare, a certs monters, falconers et ministrers de sa casa; e sobre açò vos trametem una letra patent dreçada al dit mossèn Ffrancesch segons veurets largament en aquella. Perquè us manam que la dita letra presentets o façats presentar al dit mossèn Ffrancesch Bertran, et appel·lat per tal car hi sap molt en açò Garcia lo negre; hoïts plenament lo dit compte et, ans de deffinir, certificats-vos-en plenerament, per tal que y puxam degudament provehir. Dada en Çaragoça a XVIIII dies de noembre de l’any MCCCXCVIIII. Rex Martinus. Dirigitur Bartholomeo de Bonany. Dominus rex mandavit michi Iohanni de Tudela. Probata. Crexell» (reg. 2254, f. 196r); al f. 195v-196r hi ha l’ordre al falconer major Francesc Bertran que doni compte de la quantitat que ha rebut dels 4.000 florins que li havia concedit el rei Joan I, i al f. 196r l’ordre a Nicolau Gualbes, canviador de Barcelona, que no doni res a Francesc Bertran d’aquells 4.000 florins que passin per la seva taula, perquè «nós hajam delliberat que a l’amat falconer major nostre mossèn Ffrancesch Bertran no sia res dat ne ell reebe d’aquells quatre mília florins d’or».
+r: català
+s: ordre de pagament
