@@ -1,4 +1,5 @@
 aragonès
 català
 espanyol
+castellà
 llatí
