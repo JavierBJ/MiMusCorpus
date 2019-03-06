@@ -1,21 +1,21 @@
-a: VII.6
+a: VII.8
 b: 1387
-b2: 1387
-c: [gener]
-c2: [febrer]
-d: [30]
-d2: [1]
+c: febrer
+d: 19
 e: Barcelona
-f: El rei Joan I informa un comte [Gastó III Febus de Foix?]{nota1} de la mort del rei Pere III i el convida a la seva coronació. Qui ha fet de missatger és Pere Albert, trompeta del rei. La carta no va ser expedida.
+f: El rei Joan I emet guiatge, vàlid fins a finals d’abril, en favor de Jacquet de Bar,{nota1} ministrer de l’infant Jaume, delfí de Girona, que ha d’anar cap a França.
 g: ACA
 h: Cancelleria
 j: reg.
-k: 1675
-l: 36rv
+k: 1827
+l: f. 31v
+m: Trenchs-Baiges 2000-2002, doc. 7.
 p:
-Lo rey d’Aragó.
-Comte, car cosí, vostra letra havem reebuda et entès ço que·ns ha dit de part vostra Pere Alibert, trompeta nostre. Responem-vos que, axí com creem que hajats sabut per nostres letres comanades a aquell, lo qual sobre açò tramesem al rey de Castella, lo senyor rey nostre pare, a qui Déus perdó, passà d’aquesta vida a V del present mes, et per ço n’escrisquem a vosaltres, car axí per lo deute e acostament que havets ab nós, com per la affecció que havets mostrada et mostrats a nostra honor et serviy, nos plaus sapiats aytals coses, pus a Déu plau que axí s’esdevenguen. Quant és a açò que deïts que volets romanir nostre servidor, vos responem que a nós plau e us havem per aytal, et part les dites raons, nos hi indueix car sabem que tots temps fos servidor del dit senyor pare nostre, et speram que ho serets de nós fermament e sancera, e·ns darets raó que us amem com a notable cosí et assenyalat servidor de nostra reyal casa. Pregants-vos que us apparellets per ésser a la solemnitat de nostra benaventurada coronació, la qual, mijançant la gràcia de nostre senyor Déus, entenem a celebrar dins breus dies, car gran plaser haurem que hi siats present, et nós vos en certificarem ab temps de guisa que y porets ésser. E us trametrem I caveller qui per nostra senyoria salvament [aquí s’interromp].
+{curs}Iacobini de Bar, ministrerii{/curs}.
+Iohannes, et cetera, dilectis et fidelibus universis et singulis officialibus et custodibus passuum et rerum prohibitarum in confinibus regnorum et terrarum nostrarum constitutis ad quos presentes pervenerint, salutem et dileccionem. Cum Iacobinus de Bar, ministrerius incliti et magnifici infantis Iacobi, primogeniti nostri carissimi, dalfini Gerunde et comitis Cervarie, versus partes Ffrancie, im presenciarum, de nostris licencia et permissu, accedat, vobis et unicuique vestri dicimus et districte precipiendo mandamus quatenus Iacobinum predictum, cum duobus equitaturis, familiis, auro, iocalibus et aliis bonis suis, transire et exire libere permittatis, omni obstaculo quiescente, providendo nec minus eidem, si expedierit, de securo transitu et conductu. Presentes vero hinc per totum mensem aprilis proxime venientem valere et durare volumus et non ultra.
+Data Barchinone XIX die ffebruarii anno a Nativitate Domini MºCCCºLXXXºVIIº sub nostro assueto sigillo. Protonotharius.
+q: {nota1} Altre fill de Pierre de Bar, més endavant el trobem a les corts de Castella i Navarra, vg. Narbona 2006, p. 322.
 
-q: {nota1} Pendent d’identificar.
-r: català
-s: invitació; festa; artistes missatgers
+r: llatí
+s: moviment d’artistes
+

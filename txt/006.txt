@@ -1,20 +1,17 @@
-a: VII.57
-b: 1388
-c: gener
-d: 22
-e: Vilafranca del Penedès
-f: El rei Joan I mana al tresorer reial [Felip de Ferreres] que recuperi els béns d’Avequer, ministrer de casa del rei difunt, mort sense hereu,{nota1} que Joan de Dulfa, entallador d’imatges/imaginaire de Brabant, ha robat. El rei informa al tresorer que Joan de Dulfa es troba aleshores a Barcelona i li mana que, si requerís més dades, les demani als altres ministrers reials.
+a: VII.18
+b: 1387
+c: juliol
+f: Pere Marrades, tresorer reial, paga 360 sous barcelonesos a Hennequí de Courtrai, Jacquet de Troyes i Martí Armet,{nota1} ministrers del rei, per dotze canes de drap de Perpinyà per a vestits.
 g: ACA
-h: Cancelleria
-i: CRD Joan I
-j: caixa
-k: 2
-l: carta 168
+h: Reial Patrimoni
+i: MR
+j: reg.
+k: 385
+l: f. 58r
+m: Trenchs-Baiges 2000-2002, doc. 27.
 p:
-Lo rey.
-Tresorer, com en Johan de Dulfa, de Barbant, entellador de ymaginària, sia delat que ha furtats et amagats en la ciutat de Barchelona et en altres parts de nostra senyoria molts diners et altres robes et béns qui eren de Avequer, quondam, ministrer de casa nostra, qui és mort sens hereter, et tots los dits diners et béns que munten a grans quantitats com a béns vagants pertanguen a la nostra cort, manam-vos espressament que·l dit Johan de Dulfa, lo qual segons som informats, és en la ciutat de Barchelona, façats pendre per lo veguer de Barchelona, al qual nós per altra letra nostra, dada axí com dejús, manam que us creega d’açò que vós li direts de part nostra, per manera que los dits diners et béns puxam, segons que·s pertany, recobrar et haver. E si per mills conèxer et trobar lo dit Johan de Dulfa havets necessària informació alguna, hajats aquella d’aquells ministrers de casa nostra qui aquí sien, car ells o alguns d’ells lo conexeran. E en açò hajats aquella diligència que·s pertany.
-Dada en Vilafranca de Penedès sots nostre sagell secret a XXII dies de janer de l’any MCCCLXXXVIII. Ffranciscus ça Costa.
-Bonanatus Egidii mandato regio, facto per locum tenentem thasaurarii.
-q: {nota1} Amb aquest nom no apareix cap ministrer als documents de Joan I, ni als de quan era infant; podria tractar-se d’un error del copista per Coecre? Aquest, però, havia mort el juny de l’any 1382, vg. VI.3, doc. 733.
+[{curs}Al marge{/curs}:] Albarà.
+Item, doné a Huenaquí de Cortray e a Jaquet de Troys e a Martí Armet, ministrers del senyor rey, los quals li manà donar, ab albarà de scrivà de ració, scrit en Barchelona a XXVIII dies del mes de juny de l’any MCCCLXXXVII, per rahó de XII canes de drap de Perpenyà a lur vestir, segons que’n lo dit albarà se conté, que cobré, CCCLX solidos barchinonenses.
+q: {nota1} Martí Armet, o Martinet de l’arpa, era fill de Jean Armet/Armer, vg. Mele 1986, p. 80 i VI.3, doc. 994; per la identitat entre Jean Armet i Jean Armer vg. Gómez Muntané 1979, p. 185 i Mele 1986, p. 79-81.
 r: català
-s: recuperació de béns; robatori
+s: pagament

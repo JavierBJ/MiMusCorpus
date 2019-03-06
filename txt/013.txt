@@ -1,26 +1,27 @@
-a: VII.450
-b: 1395
-c: gener
-d: 17
-e: Barcelona
-f: El rei Joan I reconeix a Bernat Guasc, [xantre] de la Capella reial, que li deu 50 florins d’or pels seus treballs.
+a: VII.181
+b: 1389
+c: setembre
+d: 9
+e: Montsó
+f: El rei Joan I ordena al batlle general del regne de València que pagui Massot Fuley, Xamari Mariem, l’esposa d’aquest i altres, joglars sarraïns [de Xàtiva], que el rei havia fet venir a la seva cort, per les despeses del viatge de tornada a casa seva.
 g: ACA
 h: Cancelleria
-i: CRD Joan I
-j: caixa
-k: 8
-l: carta 854
+j: reg.
+k: 1873
+l: f. 52v
 g2: ACA
 h2: Cancelleria
 j2: reg.
-k2: 1984
-l2: 62r{nota1} 
+k2: 1958
+l2: f. 25r
+m: Gómez Muntané 1979, doc. 111; Trenchs-Baiges 2000-2002, doc. 190.
 p:
-Nos Iohannes, Dei gracia rex Aragonum, Valencie, Maioricarum, Sardinie et Corsice comesque Barchinone, Rossilionis et Ceritanie, in satisfaccionem diversorum laborum per vos fidelem de Capella nostra Bernardum Guasch circa diverse nostre curie negocia sustentorum quinquaginta florenos auri de Aragonia vobis dicto Bernardo ducimus presentis serie concedendos; mandantes per eandem fideli consiliario et thesaurario nostro Iuliano Garrius quatenus, non obstante ordinacione per nos pridem facta, habente quod absque albarano manibus nostri et nostre consortis carissime subsignato gracie alique non solvantur, cum hec non sit gracia sed pocius laborum satisfaccio, de peccunia curie nostre que penes eum est vel erit dictos quinquaginta florenos auri, alio nostro vel dicte regine non expectato mandato, vobis vel cui loco vestri volueritis, tribuat et exsolvat, recuperando in solutione presentem aum apoca de soluto. In cuius rei testimonium hanc fieri et sigillo nostro comuni iussimus comuniri.
-Data Barchinone XVII die ianuarii anno a Nativitate Domini MºCCCXC quinto. Rex Iohannes.
-In Peccunie XIIIIº.
-[Al vers:] Dominus rex mandavit michi Petro de Ponte.
+[{curs}Al marge{/curs}:] Nichil. 
+Lo rey.
+Batle general, sapiats que Maçot Fuley, Xamari Mariem et sa muller et los altres moros juglars, los quals de manament nostre havíets fet venir ací, se’n tornen de licència nostra a lurs cases, per què us manam que·ls paguets ço que rahonable sie per lur tornada, cobràn d’ells àpocha et la present, car nós manam al maestra racional de la nostra cort que us ho reeba en compte.
+Dada en Montsó sots nostre segell secret a IX dies de setembre de l’any MCCCLXXXIX. Rex Iohannes.
+Baiulo regni Valencie generali.
+Idem [Dominus rex, qui eam signavit, misit expediendam]. 
 Probata.
-q: {nota1} La còpia del document al registre porta l’encapçalament següent: Bernardi Guasch, presbiteri.
-r: llatí
-s: deute; Capella reial
+r: català
+s: pagament; moviment d’artistes
