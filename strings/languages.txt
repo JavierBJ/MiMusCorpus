@@ -1,5 +1,4 @@
-aragonès
-català
-espanyol
-castellà
 llatí
+català
+castellà
+aragonès/castellà
